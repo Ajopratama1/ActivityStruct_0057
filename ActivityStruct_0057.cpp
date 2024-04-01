@@ -2,7 +2,10 @@
 using namespace std;
 
 
-
+struct DetailAlamat {
+    
+}
+	
 
 
 
